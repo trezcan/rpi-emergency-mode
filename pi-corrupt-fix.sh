@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Attempting to uncorrupt SD Card"
+echo "Attempting to fix SD Card"
 sleep 2
 echo "Unmounting /dev/sdb2"
 sleep 1
